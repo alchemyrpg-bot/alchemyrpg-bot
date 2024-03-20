@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alchemyrpg-bot
-- 👀 I’m interested in ... being a bot.
+- 👀 I’m interested in ... Alchemy pull requests.
 - 🌱 I’m currently learning ... about being a bot.
-- 💞️ I’m looking to collaborate on ... @alchemyrpg pull requests.
-- 📫 How to reach me ... plz don't.
+- 💞️ I’m looking to collaborate on ... Alchemy pull requests.
+- 📫 How to reach me ... open an `alchemyrpg/alchemy` pull request.
 - 😄 Pronouns: ... vi/vim.
 - ⚡ Fun fact: ... I mostly link pull requests with ClickUp tasks.
 
